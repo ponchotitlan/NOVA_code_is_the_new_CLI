@@ -1,0 +1,17 @@
+---
+- name: Configure IOS-XR devices
+  hosts: routers
+  gather_facts: no
+  connection: network_cli
+
+  tasks:
+    - name: Just get the briefing of the interfaces configured in the device
+      iosxr_command:
+        commands:
+        - show ip int brief
+
+  vars:
+    cli:
+      host: "{{ ansible_host }}"
+      username: "{{ ansible_ssh_user }}"
+      password: "{{ ansible_ssh_pass }}"
