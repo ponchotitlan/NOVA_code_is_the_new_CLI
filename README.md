@@ -9,7 +9,7 @@
 ## NOVA Universidade de Lisboa + Cisco Systems
 ### Sessão introdutória ao mundo da Programabilidade das Redes de Dados
 
-Obrigado pela tua presença na sessão! Neste repositorio estão os exemplos demonstrados na aula.
+Obrigado pela tua presença na sessão! Neste repositorio encontram-se os exemplos demonstrados na aula.
 Para experimentar com configurações diferentes, [DevNet Sandbox tem routers Cisco IOS-XR "always-on"](https://devnetsandbox.cisco.com/RM/Diagram/Index/e83cfd31-ade3-4e15-91d6-3118b867a0dd?diagramType=Topology) que não precisam de fazer reservação.
 
 ## Links úteis
