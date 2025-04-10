@@ -1,10 +1,9 @@
 # 💻🤖 Code is the new CLI 🤖💻
 
-<p align="center">
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-python.svg" /></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /></a>
-</p>
+[![Docker](https://img.shields.io/badge/docker-gray?style=flat&logo=docker)]()
+[![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python)]()
+[![Linkedin: asandovalros](https://img.shields.io/badge/Howdy!-LinkedIn-blue?style=flat)](https://www.linkedin.com/in/asandovalros)
+---
 
 ## NOVA Universidade de Lisboa + Cisco Systems
 ### Sessão introdutória ao mundo da Programabilidade das Redes de Dados
